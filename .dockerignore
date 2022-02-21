@@ -12,7 +12,6 @@ static-root/
 media-root/
 data/
 .mypy_cache/
-.env
 ### Celery ###
 *.pid
 
