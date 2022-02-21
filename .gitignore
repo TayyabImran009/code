@@ -15,7 +15,6 @@ data/
 external-data/
 scripts/
 .mypy_cache/
-.env
 ### Celery ###
 *.pid
 
