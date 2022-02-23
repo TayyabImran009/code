@@ -114,17 +114,17 @@ DATABASES = {
 
     'default': {
 
-        'ENGINE': 'django.db.backends.mysql',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
 
         'NAME': 'dbmaster',
 
         'USER': 'dbmasteruser',
 
-        'PASSWORD': "M<c5|ku[S>sRTQ;<7?BE[,u1af>FN7H&",
+        'PASSWORD': "~>!P0k^g}H.Lz(-tY~5^40xRaN*u~R(<",
 
-        'HOST': 'ls-bfa172f45a7b25a5f641c6a967d396c4f2a77a5d.cid41ls7iqzm.eu-west-3.rds.amazonaws.com',
+        'HOST': 'ls-b0d2accab52a2a46b269b8c9a8c6292fba01b0d9.cid41ls7iqzm.eu-west-3.rds.amazonaws.com',
 
-        'PORT': '3306',
+        'PORT': '5432',
 
     }
 
